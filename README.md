@@ -10,13 +10,13 @@
 
 ### ✨ [Demo](indisponível)
 
-## Usage
+## Uso
 
 ```sh
 npm start
 ```
 
-## Author
+## Autor
 
 👤 **Kauã Landi**
 
@@ -24,6 +24,6 @@ npm start
 * Github: [@kaualandi](https://github.com/kaualandi)
 * LinkedIn: [@kaualandi](https://linkedin.com/in/kaualandi)
 
-## 🥰 Show your support
+## 🥰 Mostre seu apoio
 
 Dê uma ⭐️ se este projeto te ajudou!
