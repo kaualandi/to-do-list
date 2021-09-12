@@ -13,7 +13,7 @@ function App() {
 
   }
   function buttonClicked(e) {
-    if (coment == "") {
+    if (coment === "") {
       document.querySelector('textarea').focus();
     } else {
       const ComentAllsAfter = [...comentAlls,coment];
