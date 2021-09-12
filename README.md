@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> To-Do List usando React com template do @rodolfomori
+> To-Do List usando React com template do @rodolfomori - 30D#2
 
 <!-- ### ✨ [Demo](indisponível) -->
 
