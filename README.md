@@ -8,7 +8,7 @@
 
 > To-Do List usando React com template do @rodolfomori
 
-### ✨ [Demo](indisponível)
+<!-- ### ✨ [Demo](indisponível) -->
 
 ## Uso
 
