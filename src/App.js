@@ -10,7 +10,6 @@ function App() {
   }
   function textAreaDigited(e) {
     setComent(e.target.value);
-
   }
   function buttonClicked(e) {
     if (coment === "") {
@@ -34,11 +33,10 @@ function App() {
         <img src={People}/>
         <textarea onChange={textAreaDigited} placeholder="Digite seu comentário"></textarea>
         <button onClick={buttonClicked}>Comentar</button>
-
       </div>
       <div class="col">
-          <div id="clear" style={clearStyle}>
-            <button onClick={clearList} id='clear'>limpar</button>
+          <div id="clear" class="clear" style={clearStyle}>
+            <button onClick={clearList} id="clean">limpar</button>
           </div>
         <ul id="lista-comments">
           {comentAlls.map(oneComent => (
@@ -49,5 +47,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
